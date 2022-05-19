@@ -1,0 +1,10 @@
+.App {
+  text-align: left;
+  margin-left: 10%;
+}
+.circlelist{
+  list-style: circle;
+}
+.squarelist{
+  list-style: square;
+}
